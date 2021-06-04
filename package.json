@@ -1,0 +1,22 @@
+{
+  "name": "reveal-js-test",
+  "version": "1.0.0",
+  "description": "Revealjs test repo, also a vscode in docker (remote containers)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volodink/reveal-js-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volodink/reveal-js-test/issues"
+  },
+  "homepage": "https://github.com/volodink/reveal-js-test#readme",
+  "dependencies": {
+    "reveal.js": "^4.1.1"
+  }
+}
