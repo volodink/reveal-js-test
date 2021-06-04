@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/volodink/reveal-js-test#readme",
   "dependencies": {
-    "reveal.js": "^4.1.1"
+    "@shower/cli": "^0.3.0"
   }
 }
